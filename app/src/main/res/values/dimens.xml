@@ -7,5 +7,5 @@
     <dimen name="tab_label">14sp</dimen>
     <dimen name="default_text_padding">9dp</dimen>
     <dimen name="default_edit_text_padding">3dp</dimen>
-    <dimen name="map_fragment_height">200dp</dimen>
+    <dimen name="map_fragment_height">300dp</dimen>
 </resources>
